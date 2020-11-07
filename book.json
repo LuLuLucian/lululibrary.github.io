@@ -1,0 +1,20 @@
+{
+  "plugins": [
+    "theme-comscore",
+    "disqus"
+  ],
+
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "sepia",
+      "family": "serif",
+      "size": 4
+    },
+    "disqus": {
+      "shortName": "Jalan"
+    },
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}
